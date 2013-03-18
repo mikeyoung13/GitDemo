@@ -1,4 +1,4 @@
 GitDemo
 =======
 
-demno of Git
+This is a demo
